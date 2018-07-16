@@ -1,0 +1,1 @@
+{"uuid":"062c32c0-faf7-42f8-9409-520790975492","name":"com.testframework.common.ExtReport.afterMethod","description":"","start":1531416847841,"stop":1531416848084,"children":["c49da40c-8d09-4d07-a812-667f053bd014"],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","start":1531416847841,"stop":1531416848084}]}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1531480403259" stop="1531480414981" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1531480410522" stop="1531480414954" status="passed">
+            <name>createSolution</name>
+            <description>This test cases is for Login in to Archer Instance and creating the solution</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="testFramework.ArcherTest"/>
+                <label name="testMethod" value="createSolution"/>
+                <label name="host" value="INENWADHWA2L1C"/>
+                <label name="thread" value="16288@INENWADHWA2L1C.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1531480410522" stop="1531480414954" status="passed">
+            <name>createSolution</name>
+            <description>This test cases is for Login in to Archer Instance and creating the solution</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="testFramework.ArcherTest"/>
+                <label name="testMethod" value="createSolution"/>
+                <label name="host" value="INENWADHWA2L1C"/>
+                <label name="thread" value="16288@INENWADHWA2L1C.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

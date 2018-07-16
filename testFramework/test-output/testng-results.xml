@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11729" started-at="2018-07-13T11:13:23Z" finished-at="2018-07-13T11:13:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11729" started-at="2018-07-13T11:13:23Z" finished-at="2018-07-13T11:13:34Z">
+      <class name="testFramework.ArcherTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testFramework.ArcherTest@1119efb]" name="setup" is-config="true" duration-ms="17" started-at="2018-07-13T16:43:23Z" finished-at="2018-07-13T16:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testFramework.ArcherTest@1119efb]" name="beforeMethod" is-config="true" duration-ms="4009" started-at="2018-07-13T16:43:23Z" finished-at="2018-07-13T16:43:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testFramework.ArcherTest.createSolution() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testFramework.ArcherTest@1119efb]" name="beforeMethod" is-config="true" duration-ms="3127" started-at="2018-07-13T16:43:27Z" finished-at="2018-07-13T16:43:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createSolution()[pri:0, instance:testFramework.ArcherTest@1119efb]" name="createSolution" duration-ms="4533" started-at="2018-07-13T16:43:30Z" description="This test cases is for Login in to Archer Instance and creating the solution" finished-at="2018-07-13T16:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSolution -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:testFramework.ArcherTest@1119efb]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-07-13T16:43:34Z" finished-at="2018-07-13T16:43:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testFramework.ArcherTest.createSolution() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=createSolution status=SUCCESS method=ArcherTest.createSolution()[pri:0, instance:testFramework.ArcherTest@1119efb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testFramework.ArcherTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

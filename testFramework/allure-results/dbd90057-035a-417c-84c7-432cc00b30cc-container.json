@@ -1,0 +1,1 @@
+{"uuid":"dbd90057-035a-417c-84c7-432cc00b30cc","name":"testFramework.ArcherTest.setup","description":"","start":1531327815009,"stop":1531327837094,"children":["6e5b1f5b-0d6b-4830-92f1-3af33017c7f3"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1531327815009,"stop":1531327837094}]}
